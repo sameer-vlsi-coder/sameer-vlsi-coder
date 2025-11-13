@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Md sofi sameer
-**A Front-End VLSI Engineer | Functional Verification Enthusiast**
+**A Front-End VLSI Engineer | Design Verification Enthusiast**
 
 Email Me 👉 ✉️ **mdsofisameersameer@gmail.com** For connecting or Anything Else. 😊😊
 
