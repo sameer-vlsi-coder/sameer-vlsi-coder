@@ -17,7 +17,10 @@ Email Me 👉 ✉️ **mdsofisameersameer@gmail.com** For connecting or Anything
 ![Assertions](https://img.shields.io/badge/Assertions-008080?style=for-the-badge&logoColor=white)
 ![Functional Coverage](https://img.shields.io/badge/Functional_Coverage-FFA500?style=for-the-badge&logoColor=white)
 ![Code Coverage](https://img.shields.io/badge/Code_Coverage-FF6347?style=for-the-badge&logoColor=white)
-### 🟦 Supporting Tools & Scripting  
+### 🟦 Supporting Tools & Scripting
+![QuestaSim](https://img.shields.io/badge/QuestaSim-0057B7?style=for-the-badge&logo=siemens&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-CC0000?style=for-the-badge&logo=tcl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
 ## 🌐 Socials:
